@@ -3,7 +3,7 @@
 Computer Science student learning full-stack web development.
 
 ### 💻 Currently Learning
-- **Frontend**: Tailwind CSS, React
+- **Frontend**: boot strap CSS, React
 - **Backend**: Django, basic Node.js
 
 ### 🎯 Goals
