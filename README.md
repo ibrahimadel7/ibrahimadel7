@@ -4,7 +4,7 @@ Computer Science student learning full-stack web development.
 
 ### 💻 Currently Learning
 - **Frontend**: boot strap CSS, React
-- **Backend**: Django, basic Node.js
+- **Backend**: Django
 
 ### 🎯 Goals
 - Build and deploy full-stack projects
