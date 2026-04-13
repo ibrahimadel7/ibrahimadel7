@@ -1,13 +1,4 @@
 # Hi, I'm Ibrahim 👋
 
-Computer Science student learning full-stack web development.
-
-### 💻 Currently Learning
-- **Frontend**: boot strap CSS, React
-- **Backend**: Django,flask
-
-### 🎯 Goals
-- Build and deploy full-stack projects
-- Improve in backend and infrastructure
-
+Computer Science student interested in machine learning ,rag and nlp
 
