@@ -30,11 +30,6 @@ I mostly learn by building projects, experimenting with different approaches, an
 <tr>
 <td align="center" width="50%">
 
-**Languages**
-
-`Python` · `C` · `C++`
-`C#` · `JavaScript` · `SQL`
-
 </td>
 
 <td align="center" width="50%">
@@ -53,7 +48,7 @@ I mostly learn by building projects, experimenting with different approaches, an
 
 **Development**
 
-`FastAPI` · `Flask` · `Django`
+`FastAPI` ·
 `React` · `Streamlit`
 
 </td>
@@ -64,7 +59,7 @@ I mostly learn by building projects, experimenting with different approaches, an
 
 `Pandas` · `NumPy` · `SQLite`
 `PostgreSQL` · `SQL Server`
-`Git` · `GitHub` · `Postman`
+`Git` · `GitHub` · 
 
 </td>
 </tr>
@@ -77,18 +72,6 @@ I mostly learn by building projects, experimenting with different approaches, an
 ### `> experience`
 
 </div>
-
-```text
-2026
-└── Development Intern
-    Financial Regulatory Authority (FRA)
-
-2025 ── 2026
-└── Machine Learning Trainee
-    Digital Egypt Pioneers Initiative (DEPI)
-```
-
----
 
 <div align="center">
 
@@ -111,14 +94,3 @@ I mostly learn by building projects, experimenting with different approaches, an
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimadel7&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="160"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=70&text=%3E%20build%20%E2%86%92%20break%20%E2%86%92%20learn%20%E2%86%92%20repeat&fontSize=18&fontColor=58A6FF&fontAlignY=50" width="100%"/>
-
-</div>
