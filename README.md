@@ -1,26 +1,18 @@
 <div align="center">
 
-# Ibrahim Abdelaziz
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=180&section=header&text=IBRAHIM%20ABDELAZIZ&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20%7C%20Software%20Development&descAlignY=60&descSize=16" width="100%"/>
 
-**Computer Science Student · AI/ML · Software Development**
-
-<p>
-  <a href="https://github.com/ibrahimadel7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/ibrahim-abdelaziz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:ibrahimadel2810@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=AI%2FML+%7C+NLP+%7C+LLMs;Backend+%7C+APIs+%7C+Data;Learning+by+building+things." />
 
 </div>
 
 ---
 
+<div align="center">
+
 ### `> about`
+
+</div>
 
 Computer Science student interested in **AI/ML, NLP, LLMs, and backend development**.
 
@@ -28,51 +20,105 @@ I mostly learn by building projects, experimenting with different approaches, an
 
 ---
 
-### `> stack`
-
-**Languages**
-
-`Python` `C` `C++` `C#` `JavaScript` `SQL`
-
-**AI / ML**
-
-`PyTorch` `Scikit-learn` `Hugging Face` `Unsloth` `LangChain` `LangGraph`
-
-**Development**
-
-`FastAPI` `Flask` `Django` `React` `Streamlit`
-
-**Data / Tools**
-
-`Pandas` `NumPy` `SQLite` `PostgreSQL` `SQL Server` `Git` `GitHub` `Postman`
-
----
-
-### `> experience`
-
-**Development Intern — Financial Regulatory Authority (FRA)** · `2026`
-**Machine Learning Trainee — DEPI** · `2025 – 2026`
-
----
-
-### `> currently learning`
-
-`LLM Fine-tuning` · `RAG` · `Agentic AI` · `Production ML`
-
----
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ibrahimadel7&show_icons=true&hide_border=true&theme=github_dark">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimadel7&layout=compact&hide_border=true&theme=github_dark">
+### `> stack`
 
 </div>
 
-<br>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**Languages**
+
+`Python` · `C` · `C++`
+`C#` · `JavaScript` · `SQL`
+
+</td>
+
+<td align="center" width="50%">
+
+**AI / ML**
+
+`PyTorch` · `Scikit-learn`
+`Hugging Face` · `Unsloth`
+`LangChain` · `LangGraph`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**Development**
+
+`FastAPI` · `Flask` · `Django`
+`React` · `Streamlit`
+
+</td>
+
+<td align="center">
+
+**Data / Tools**
+
+`Pandas` · `NumPy` · `SQLite`
+`PostgreSQL` · `SQL Server`
+`Git` · `GitHub` · `Postman`
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-`build → break → learn → repeat`
+### `> experience`
+
+</div>
+
+```text
+2026
+└── Development Intern
+    Financial Regulatory Authority (FRA)
+
+2025 ── 2026
+└── Machine Learning Trainee
+    Digital Egypt Pioneers Initiative (DEPI)
+```
+
+---
+
+<div align="center">
+
+### `> currently_learning`
+
+`LLM Fine-tuning` · `RAG` · `Agentic AI`
+`LangGraph` · `Cloud` · `Production ML`
+
+</div>
+
+---
+
+<div align="center">
+
+### `> github`
+
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahimadel7&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimadel7&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimadel7&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=70&text=%3E%20build%20%E2%86%92%20break%20%E2%86%92%20learn%20%E2%86%92%20repeat&fontSize=18&fontColor=58A6FF&fontAlignY=50" width="100%"/>
 
 </div>
