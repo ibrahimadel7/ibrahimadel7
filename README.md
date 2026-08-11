@@ -94,8 +94,8 @@ I mostly learn by building projects, experimenting with different approaches, an
 
 ### `> currently_learning`
 
-`LLM Fine-tuning` · `RAG` · `Agentic AI`
-`LangGraph` · `Cloud` · `Production ML`
+`LLM Fine-tuning` · `RAG` ·
+`NLP` · `Cloud` · `Production ML`
 
 </div>
 
